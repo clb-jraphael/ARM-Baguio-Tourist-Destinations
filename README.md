@@ -16,7 +16,7 @@ mlextend
 
 Data
 
-The data for this project is collected from a survey and stored in a CSV file named FormResponses1.csv. The key column in this dataset is:
+The data for this project is collected from a survey (conducted through google forms) and stored in a CSV file named FormResponses1.csv. The key column in this dataset is:
 
 
 Which of the tourist destinations in Baguio City will/have you visited?: Contains the list of tourist destinations visited by each respondent.
@@ -45,14 +45,11 @@ Filtered rules based on specific thresholds for antecedent length, confidence, a
 These results help in understanding the patterns and tendencies of tourist behaviors in Baguio City.
 
 
-Conclusion
-
-
 This ARM model provides valuable insights into the behavior of tourists in Baguio City. By analyzing which destinations are frequently visited together, you can better understand tourist preferences and optimize travel recommendations and marketing strategies.
 
 
 
-Recommendations for Data Analysis
+Recommendations for improvements and for further analysis:
 
 In my analysis of tourist tendencies, I have identified the following recommendations to improve the accuracy and reliability of the results:
 
@@ -84,4 +81,4 @@ Implementation Steps
 Expand Data Collection: Increase the population size by including data from a wider range of sources and geographical areas.
 Adjust Analysis Parameters: Increase the minimum support and confidence levels in your data mining algorithms to reflect the larger dataset.
 Review and Refine: Continuously review the results to identify any new outliers or patterns, refining the data collection and analysis process as needed.
-By following these recommendations, you can significantly improve the robustness of your analysis and gain deeper insights into tourist tendencies, leading to more effective decision-making and strategy development.
+Following or trying out these recommendations, you can or may significantly improve the robustness of your analysis and gain deeper insights into tourist tendencies, leading to more effective decision-making and strategy development.
